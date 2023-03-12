@@ -270,13 +270,13 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
         return false;
     }
-    public static MovieDao getMovieDao() {
-        return movieDao;
-    }
-    public static MovieApi getMovieApi() {
-        return movieApi;
-    }
-    public static List<Genre> getAllGenres() {
-        return allGenres;
-    }
+    // public static MovieDao getMovieDao() {
+    //     return movieDao;
+    // }
+    // public static MovieApi getMovieApi() {
+    //     return movieApi;
+    // }
+    // public static List<Genre> getAllGenres() {
+    //     return allGenres;
+    // }
 }
